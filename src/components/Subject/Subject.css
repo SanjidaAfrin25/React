@@ -1,0 +1,21 @@
+.subject{
+    display: flex;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+.subject img{
+    height: 200px;
+}
+.title h5 h4{
+    color: gray;
+}
+.button{
+background-color:skyblue;
+border: none;
+padding:10px;
+border-radius: 5px;
+font-size: 20px;
+}
+.button:hover{
+    background-color:gray;
+}
